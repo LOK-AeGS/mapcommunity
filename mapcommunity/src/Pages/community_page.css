@@ -1,0 +1,16 @@
+.community_page{
+    width: 100%;
+    height: 100%;
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.page_board_section{
+    width: 70%;
+    background-color: white;
+    text-align: center;
+
+}

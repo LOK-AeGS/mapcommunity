@@ -1,0 +1,24 @@
+.board_section_list_main{
+    width: 200%;
+    height: 100%;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+}
+
+.board_title{
+    margin-left: 10px;
+}
+
+.board_previewNwriter{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.board_writer{
+
+}
+
+.board_preview{
+
+}

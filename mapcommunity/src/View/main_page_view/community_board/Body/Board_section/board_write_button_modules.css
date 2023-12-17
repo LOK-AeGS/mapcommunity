@@ -1,0 +1,8 @@
+.board_write_button{
+    width: 10%;
+    border: 1px solid black;
+}
+.board_write_button Button{
+    width: 100%;
+    height: 100%;
+}
